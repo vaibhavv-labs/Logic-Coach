@@ -1,0 +1,6 @@
+{
+  "name": "Logic Coach",
+  "description": "A Socratic programming tutor designed specifically for absolute beginners learning to code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
